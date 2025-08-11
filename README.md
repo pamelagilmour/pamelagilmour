@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Pamela Gilmour — Software Engineer
 ## WordPress • React • MCP Server Prototyping
 
-Modernizing legacy systems with a user-first approach. Passionate about accessibility, scalability, and clean code.
+Modernizing legacy systems with a user-first approach. Passionate about MCP, accessibility, scalability, and clean code.
 
 ## 🛠️ Tech Stack
-**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
 
-**Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![FeathersJS](https://img.shields.io/badge/FeathersJS-333?style=flat&logo=feathersjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress) ![MCP](https://img.shields.io/badge/MCP-blue?style=flat)
+**Backend:**  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![FeathersJS](https://img.shields.io/badge/FeathersJS-333?style=flat&logo=feathersjs&logoColor=white)  ![MCP](https://img.shields.io/badge/MCP-blue?style=flat)
 
 **Testing & APIs:** ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
@@ -25,7 +25,7 @@ Modernizing legacy systems with a user-first approach. Passionate about accessib
   **Tech:** WordPress, PHP, TypeScript, React, Sass
 
 - **[California Voter Guide](https://www.kqed.org/elections/results) (2021–ongoing):**
-  Progressed from building presentational components to advocating for strategic planning for scalability. Led development across two major election cycles, serving California with focus on the Bay Area.
+  Progressed from building presentational components to advocating for strategic planning for scalability and leading frontend development across major election cycles serving California with focus on the Bay Area.
   **Tech:** WordPress, React, Redux, Sass
 
 - **[Youth Media Challenge Redesign](https://youthmedia.kqed.org/) (2021–2022):**
@@ -38,6 +38,7 @@ Modernizing legacy systems with a user-first approach. Passionate about accessib
 
 
 ## 💬 Ask Me About
+- Frontend Refactor, SEO refinements (2023- ongoing) 
 - KQED Intern Training (2022)
 - My Internship at [Postman](https://www.postman.com/) (2021)
 - Classes at City College of San Francisco (2021–2022)
@@ -52,7 +53,7 @@ Building secure MCP servers to enhance experience in agents and media platforms.
 
 ## ⚡ Fun Facts
 - Built a horoscope app and a fortune cookie app in bootcamp!
-- Licensed acupuncturist (2015–ongoing)
+- Licensed acupuncturist, non-practicing (2015–ongoing)
 
 
 

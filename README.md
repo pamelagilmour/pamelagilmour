@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Pamela Gilmour — Software Engineer
-## WordPress • React • MCP Server Prototyping
+## CMS • Web Dev • MCP Server Prototyping
 
 Modernizing legacy systems with a user-first approach. Passionate about MCP, accessibility, scalability, and clean code.
 
@@ -38,7 +38,7 @@ Modernizing legacy systems with a user-first approach. Passionate about MCP, acc
 
 
 ## 💬 Ask Me About
-- Frontend Refactor, SEO refinements (2023- ongoing) 
+- Frontend Refactor, SEO refinements (2023- 2025) 
 - KQED Intern Training (2022)
 - My Internship at [Postman](https://www.postman.com/) (2021)
 - Classes at City College of San Francisco (2021–2022)

@@ -4,7 +4,7 @@
 Modernizing legacy systems with a user-first approach. Passionate about MCP, accessibility, scalability, and clean code.
 
 ## 🛠️ Tech Stack
-**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)
+**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress) 
 
 **Backend:**  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![FeathersJS](https://img.shields.io/badge/FeathersJS-333?style=flat&logo=feathersjs&logoColor=white)  ![MCP](https://img.shields.io/badge/MCP-blue?style=flat)
 

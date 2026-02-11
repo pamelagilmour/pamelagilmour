@@ -29,7 +29,7 @@ Demonstrating system design, scalability patterns, and modern full-stack develop
 
 Full-stack development across multiple platforms including Vercel, WordPress, and enterprise CMS systems.
 
-**Software Engineer @ KQED** (2021–2025)
+**Software Engineer @ KQED** (2022–2025)
 - Led frontend development for high-traffic civic engagement platforms serving millions of California voters
 - Modernized legacy systems with React, TypeScript, and decoupled architecture patterns
 - Collaborated cross-functionally on accessibility-first WordPress block development
@@ -69,4 +69,4 @@ AI agent system with multi-step reasoning, tool use, and production-grade error 
 
 ## ⚡ Fun Fact
 
-Built horoscope and fortune cookie apps in bootcamp. Now building AI agents! 🔮→🤖
+Built horoscope and fortune cookie apps in bootcamp. Now building AI agents!

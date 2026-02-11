@@ -17,9 +17,9 @@ Building production-grade applications with modern AI tooling. Experienced moder
 ## 🔭 Current Focus
 
 Building a portfolio of production-grade applications showcasing:
-- **AI-Powered Knowledge Base** — Full-stack app with custom MCP server integration and Claude API
-- **Real-Time Analytics Platform** — Advanced data structures, algorithms, and WebSocket architecture  
-- **Autonomous Research Agent** — Multi-step AI agent with tool orchestration and state management
+- **AI-Powered Knowledge Base** Full-stack app with custom MCP server integration and Claude API
+- **Real-Time Analytics Platform** Advanced data structures, algorithms, and WebSocket architecture  
+- **Autonomous Research Agent** Multi-step AI agent with tool orchestration and state management
 
 Demonstrating system design, scalability patterns, and modern full-stack development practices.
 
@@ -38,15 +38,15 @@ Demonstrating system design, scalability patterns, and modern full-stack develop
 
 ## 🚀 Portfolio Projects
 
-**📌 [AI-Powered Developer Knowledge Base](#)** (In Progress)
+**📌 [AI-Powered Developer Knowledge Base](https://github.com/pamelagilmour/p-1)** (In Progress)
 Full-stack application with custom MCP server, AI agent integration, Redis caching, and background job processing.  
 **Tech:** Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Claude API
 
-**📌 [Algorithmic Trading Dashboard](#)** (Planned)
+**📌 [Algorithmic Trading Dashboard](https://github.com/pamelagilmour/p-2)** (Planned)
 Real-time data platform showcasing advanced DS&A implementations and high-throughput system design.  
 **Tech:** Next.js, Python, WebSocket, PostgreSQL
 
-**📌 [Autonomous Research Agent](#)** (Planned)
+**📌 [Autonomous Research Agent](https://github.com/pamelagilmour/p-3)** (Planned)
 AI agent system with multi-step reasoning, tool use, and production-grade error handling.  
 **Tech:** Python, FastAPI, MCP Protocol, Claude API
 
@@ -61,7 +61,7 @@ AI agent system with multi-step reasoning, tool use, and production-grade error 
 
 - **Email:** pamelajgilmour@gmail.com  
 - **LinkedIn:** [linkedin.com/in/pamela-gilmour](https://www.linkedin.com/in/pamela-gilmour)
-- **Portfolio:** [Coming Soon]
+- **Portfolio:** [https://my-next-app.sodalitemix.workers.dev/](https://my-next-app.sodalitemix.workers.dev/)
 
 ## ⚡ Fun Fact
 

@@ -26,6 +26,7 @@ Demonstrating system design, scalability patterns, and modern full-stack develop
 ## 💼 Professional Experience
 
 **Senior Creative Developer @ Codeword** (2025–Present)
+
 Full-stack development across multiple platforms including Vercel, WordPress, and enterprise CMS systems.
 
 **Software Engineer @ KQED** (2021–2025)
@@ -35,9 +36,9 @@ Full-stack development across multiple platforms including Vercel, WordPress, an
 - Mentored engineering interns on best practices and code quality
 
 **Key Projects:**
-- **[Support Site Redesign](https://www.kqed.org/support)** — Custom WordPress blocks drove measurable increase in donations
-- **[California Voter Guide](https://www.kqed.org/elections/results)** — Scaled frontend architecture across multiple election cycles
-- **[Youth Media Challenge](https://youthmedia.kqed.org/)** — Enabled SSR/CSR architecture, boosted team velocity
+- **[Support Site Redesign](https://www.kqed.org/support)** Custom WordPress blocks drove measurable increase in donations
+- **[California Voter Guide](https://www.kqed.org/elections/results)** Scaled frontend architecture across multiple election cycles
+- **[Youth Media Challenge](https://youthmedia.kqed.org/)** Enabled SSR/CSR architecture, boosted team velocity
 
 ## 🚀 Portfolio Projects
 

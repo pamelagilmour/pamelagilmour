@@ -25,6 +25,9 @@ Demonstrating system design, scalability patterns, and modern full-stack develop
 
 ## 💼 Professional Experience
 
+**Senior Creative Developer @ Codeword** (2025–Present)
+Full-stack development across multiple platforms including Vercel, WordPress, and enterprise CMS systems.
+
 **Software Engineer @ KQED** (2021–2025)
 - Led frontend development for high-traffic civic engagement platforms serving millions of California voters
 - Modernized legacy systems with React, TypeScript, and decoupled architecture patterns

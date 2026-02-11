@@ -66,7 +66,3 @@ AI agent system with multi-step reasoning, tool use, and production-grade error 
 - **Email:** pamelajgilmour@gmail.com  
 - **LinkedIn:** [linkedin.com/in/pamela-gilmour](https://www.linkedin.com/in/pamela-gilmour)
 - **Portfolio:** [https://my-next-app.sodalitemix.workers.dev/](https://my-next-app.sodalitemix.workers.dev/)
-
-## ⚡ Fun Fact
-
-Built horoscope and fortune cookie apps in bootcamp. Now building AI agents!

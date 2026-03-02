@@ -42,17 +42,9 @@ Full-stack development across multiple platforms including Vercel, WordPress, an
 
 ## 🚀 Portfolio Projects
 
-**📌 [AI-Powered Developer Knowledge Base](https://github.com/pamelagilmour/p-1)** (In Progress)
+**📌 [AI-Powered Developer Knowledge Base](https://github.com/pamelagilmour/dev-notes-ai)**
 Full-stack application with custom MCP server, AI agent integration, Redis caching, and background job processing.  
 **Tech:** Next.js, TypeScript, FastAPI, PostgreSQL, Redis, Claude API
-
-**📌 [Algorithmic Trading Dashboard](https://github.com/pamelagilmour/p-2)** (Planned)
-Real-time data platform showcasing advanced DS&A implementations and high-throughput system design.  
-**Tech:** Next.js, Python, WebSocket, PostgreSQL
-
-**📌 [Autonomous Research Agent](https://github.com/pamelagilmour/p-3)** (Planned)
-AI agent system with multi-step reasoning, tool use, and production-grade error handling.  
-**Tech:** Python, FastAPI, MCP Protocol, Claude API
 
 ## 💬 Background
 

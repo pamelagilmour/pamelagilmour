@@ -48,9 +48,9 @@ Full-stack application with custom MCP server, AI agent integration, Redis cachi
 
 ## 💬 Background
 
-- Software Engineering Bootcamp @ General Assembly (2020)
-- CS Coursework @ City College of San Francisco (2021–2022)
 - Engineering Intern @ Postman (2021)
+- CS Coursework @ City College of San Francisco (2021–2022)
+- Software Engineering Bootcamp @ General Assembly (2020)
 - Licensed Acupuncturist (non-practicing)
 
 ## 📫 Connect
